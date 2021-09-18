@@ -1,0 +1,27 @@
+.general{
+    color: white;
+    padding-left: 2cm;
+    background-image: url("vsdesign.jpg") ;
+    background-size: cover;
+    width: 15cm;
+    background-position-x: center;
+    border: 1px black solid;
+}
+#submit{
+    width: 109px;
+}
+.g{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: coral;
+}
+.Q{
+    margin-left: 2cm;
+}
+.R{
+    margin-left: 1cm;
+    color:coral ;
+}
+
+#email,#password{
+    width: 8cm;
+}

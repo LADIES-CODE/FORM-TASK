@@ -1,0 +1,53 @@
+body{
+    background-image: url('mine.jpg')
+}
+h1{
+    background-color: chocolate;
+    font-size: 4em;
+    color: cornflowerblue;
+}
+h2{
+    background-image: ;
+color: darkgreen;
+
+font-size: 1.5em;}
+h3{
+    background-color: darkgreen;
+    font-size: 3em;
+    color: darkgreen;
+}
+
+h4{}
+h5{
+    background-color: darkorange;
+    font-size: 4em;
+    color: darkorange;
+}
+h6{
+    background-color: darksalmon;
+    font-size: 12em;
+    color: darkslategrey;
+}
+p{
+   
+    background-color: crimson;
+}
+ul{
+    background-color: pink;
+}
+ul li{
+    display: inline-block;
+}
+fieldset{
+    background-color: aqua;
+    color: bisque;
+    border-radius: 2em;
+}
+label.field{
+    line-height: 2em;
+    font-family: monospace;
+    border-radius: 2em;
+}
+.form{
+    background-color: crimson;
+}
