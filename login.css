@@ -1,0 +1,168 @@
+body{
+    background: url(Rectangle\ 1.jpg);
+    background-position: absolute;
+    background-repeat: no-repeat;
+    width: 1740px;
+    height: 1024px;
+    left: -236px;
+    top: 0px;
+    mix-blend-mode: darken;
+    opacity: 0.7;
+    backdrop-filter: blur(4px);
+}
+
+.logo{
+    position: absolute;
+    width: 337.16px;
+    height: 63.19px;
+    left: 164px;
+    top: 149.3px;
+}
+
+h1{
+    position: absolute;
+    width: 109.97px;
+    height: 44.23px;
+    left: 164px;
+    top: 337.4px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+
+.box1{
+    height: 64.2px;
+    width: 858px;
+    border-radius: 5px;
+    position: absolute;
+    left: 164px;
+    top: 500px;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 5px;
+}
+
+.box2{
+    height: 64.2px;
+    width: 858px;
+    left: 0px;
+    top: 0px;
+    border-radius: 5px;
+    position: absolute;
+    left: 164px;
+    top: 600px;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 5px;
+}
+
+.box1 input{
+    height: 23px;
+    width: 157.85px;
+    left: 21.75px;
+    top: 21px;
+    position: absolute;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.54);
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.box2 input{
+    height: 28px;
+    width: 83px;
+    left: 30.75px;
+    top: 18.95px;
+    position: absolute;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #C4C4C4;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+h5{
+    height: 22.12px;
+    width: 176.43px;
+    left: 164px;
+    top: 675.35px;
+    position: absolute;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FF6C01;
+}
+
+.login {
+    height: 68.4px;
+    width: 613.8px;
+    position: absolute;
+    left: 280px;
+    top: 760px;
+    background: #FF6C01;
+    border-radius: 12px;
+}
+
+.login input{
+    border: none;
+    background: none;
+    position: absolute;
+    left: 45.08%;
+    right: 44.88%;
+    top: 34.78%;
+    bottom: 31.88%;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;     
+}
+
+p{
+    width: 223.56px;
+    height: 22.12px;
+    left: 436px;
+    top: 855px;
+    position: absolute;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+span.signup{
+    height: 22px;
+    width: 75px;
+    position: absolute;
+    left: 230px;
+    top: 5px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FF6C01;
+}

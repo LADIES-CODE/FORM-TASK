@@ -13,16 +13,18 @@ body{
 
 h1{
     color: #ffffff;
+    font-size: 36px;
 }
 h5{
     color: #ffffff;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 420px;
+    line-height: 21px;
 }
 .signup{
     margin: 0px;
     padding-right: 0;
-}
-.form-details{
-
 }
 
 .textbox{
@@ -32,6 +34,7 @@ h5{
     font-size: 25px;
     padding: 5px 10px;
     margin: 40px ;
+    margin-left: 6px;
     border-bottom: 4px solid #ffffff;
 }
 
@@ -48,12 +51,27 @@ h5{
 .terms{
     padding: 20px;
     margin-top: 25px;
-    font-size: 15px;
+    margin-left: -18px;
+    font-size: 18px;
+    font-weight: 400px;
     color: #ffffff;
 }
 
 span.color{
-    color: orangered;
+    color: #FF6C01;
+}
+
+span.color2{
+    color: #FF6C01;
+    position: absolute;
+    width: 46px;
+    height: 21px;
+    left: 805px;
+    top: 914px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
 }
 
 .spaced-items{
@@ -62,12 +80,13 @@ span.color{
 }
 
 .signup2{
-    color: #ffffff;
-    width: 25%;
-    background: none;
-    border: 5px solid #ffffff;
-    border-radius: 7px;
-    padding: 5px;
+    width: 508px;
+    height: 64px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border: 6px solid #ffffff;
+    box-sizing: border-box;
+    border-radius: 12px;
 }
 
 .signup2 input{
@@ -78,6 +97,27 @@ span.color{
     font-size: large;
     width: 200px;
     margin: 2px;
-    padding: 5px;
+    margin-left: 150px;
+    padding: 15px;
     text-align: center;
+}
+
+.textbox1{
+    width: 74.5%;
+    overflow: hidden;
+    padding: 5px 10px;
+    margin: 40px;
+    margin-left: 6px;
+    border-bottom: 4px solid #ffffff;
+}
+
+.textbox1 input{
+    border: none;
+    outline: none;
+    background: none;
+    color: #959595;
+    font-size: large;
+    width: 200px;
+    margin: 1px;
+    margin-left: 4px;
 }
