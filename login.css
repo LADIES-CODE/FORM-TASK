@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
 body{
     background: url(Rectangle\ 1.jpg);
     background-position: absolute;
@@ -25,7 +27,7 @@ h1{
     height: 44.23px;
     left: 164px;
     top: 337.4px;
-    font-family: 'Segoe UI';
+    font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
@@ -63,7 +65,7 @@ h1{
     left: 21.75px;
     top: 21px;
     position: absolute;
-    font-family: 'Segoe UI';
+    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -82,7 +84,7 @@ h1{
     left: 30.75px;
     top: 18.95px;
     position: absolute;
-    font-family: 'Segoe UI';
+    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -102,7 +104,7 @@ h5{
     left: 164px;
     top: 675.35px;
     position: absolute;
-    font-family: 'Segoe UI';
+    font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
@@ -128,7 +130,7 @@ h5{
     right: 44.88%;
     top: 34.78%;
     bottom: 31.88%;
-    font-family: 'Segoe UI';
+    font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -145,7 +147,7 @@ p{
     left: 436px;
     top: 855px;
     position: absolute;
-    font-family: 'Segoe UI';
+    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -159,7 +161,7 @@ span.signup{
     position: absolute;
     left: 230px;
     top: 5px;
-    font-family: 'Segoe UI';
+    font-family: Roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
